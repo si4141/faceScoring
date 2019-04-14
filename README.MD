@@ -4,7 +4,8 @@
 
 プロジェクトのディレクトリ直下にenvという名前でファイルを作って以下のようにする。
 
-```:faceScoring/env
+faceScoring/env
+```
 [BingAPI]
 API_KEY = 取得したAPIキー
 ```
